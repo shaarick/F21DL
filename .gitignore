@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#OSX
+.DS_Store
+
+#Tutorial files
+Tutorial_1_Data_Exploration_and_Visualization_(Getting_to_know_your_data).ipynb
